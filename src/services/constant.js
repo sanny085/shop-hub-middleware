@@ -1,0 +1,16 @@
+export const ADD_TO_CART="ADD_TO_CART";
+export const REMOVE_TO_CART="REMOVE_TO_CART";
+export const INCREASE_QUANTITY="INCREASE_QUANTITY";
+export const DECREASE_QUANTITY="DECREASE_QUANTITY";
+
+export const  CLEAR_ITEMS_FROM_CART="CLEAR_ITEMS_FROM_CART";
+export const  GET_TOTALS_FROM_CART="GET_TOTALS_FROM_CART";
+
+export const REGISTER = "REGISTER";
+export const VERIFY = "VERIFY";
+export const LOGIN="LOGIN";
+
+export const QUESTIONS = "QUESTIONS";
+export const FINISHED_EXAM = "FINISHED_EXAM";
+export const LOGOUT="LOGOUT";
+
